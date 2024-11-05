@@ -1,0 +1,29 @@
+<!-- res/layout/grades.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="24dp"
+    android:background="@color/background_color">
+
+    <!-- Title TextView -->
+    <TextView
+        android:id="@+id/widget_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jaunākās atzīmes"
+    android:textColor="@color/text_color"
+    android:textSize="18sp"
+    android:textStyle="bold"
+    android:layout_marginBottom="8dp"/>
+
+    <!-- Container for Grade Entries -->
+    <LinearLayout
+        android:id="@+id/grades_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/widget_title"
+        android:paddingTop="8dp"/>
+
+</RelativeLayout>

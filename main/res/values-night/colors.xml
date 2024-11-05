@@ -1,0 +1,4 @@
+<resources>
+    <color name="background_color">#000000</color> <!-- Dark Mode Background -->
+    <color name="text_color">#FFFFFF</color> <!-- Dark Mode Text -->
+</resources>
