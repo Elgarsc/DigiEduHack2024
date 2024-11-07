@@ -19,9 +19,3 @@ private fun getGrades(): List<GradeEntry> {
 ```
 
 
-Project Structure
-Android Widget: Displays recent grades on the home screen, implemented using AppWidgetProvider, RemoteViewsService, and RemoteViews.
-
-Prerequisites
-Android Studio with an Android SDK.
-
