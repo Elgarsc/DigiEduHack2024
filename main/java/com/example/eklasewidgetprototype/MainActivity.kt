@@ -16,7 +16,8 @@ import android.widget.TextView
 import com.example.eklasewidgetprototype.grades_widget.GradeWidgetProvider
 
 class MainActivity : AppCompatActivity() {
-/*
+
+    /*
     private lateinit var darkModeSwitch: Switch
     private lateinit var textView: TextView
     private lateinit var updateWidgetButton: Button
