@@ -13,4 +13,5 @@
     <color name="light_blue_900">#FF01579B</color>
     <color name="background_color">#FFFFFF</color> <!-- Light Mode Background -->
     <color name="text_color">#000000</color> <!-- Light Mode Text -->
+    <color name="gray">#FF888888</color>
 </resources>

@@ -3,6 +3,7 @@ android:minWidth="200dp"
 android:minHeight="100dp"
 android:updatePeriodMillis="86400000"
 android:initialLayout="@layout/grades"
+    android:previewImage="@drawable/grades_preview"
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen">
     </appwidget-provider>

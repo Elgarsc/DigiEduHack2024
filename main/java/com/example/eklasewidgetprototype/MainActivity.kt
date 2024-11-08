@@ -13,11 +13,10 @@ import android.widget.LinearLayout
 import android.widget.RemoteViews
 import android.widget.Switch
 import android.widget.TextView
-import androidx.compose.material3.darkColorScheme
-import com.example.eklasewidgetprototype.widget.GradeWidgetProvider
+import com.example.eklasewidgetprototype.grades_widget.GradeWidgetProvider
 
 class MainActivity : AppCompatActivity() {
-
+/*
     private lateinit var darkModeSwitch: Switch
     private lateinit var textView: TextView
     private lateinit var updateWidgetButton: Button
@@ -26,6 +25,7 @@ class MainActivity : AppCompatActivity() {
 
     // Key for shared preferences
     private val DARK_MODE_KEY = "dark_mode"
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -113,5 +113,6 @@ class MainActivity : AppCompatActivity() {
             appWidgetManager.updateAppWidget(appWidgetId, views)
         }
     }
-}
+
+*/}
 
