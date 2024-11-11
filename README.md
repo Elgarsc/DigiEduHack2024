@@ -17,9 +17,7 @@ private fun getGrades(): List<GradeEntry> {
         )
     }
 ```
-![image](https://github.com/user-attachments/assets/c246c604-150f-483b-9de4-db676fe7d473)
-![image](https://github.com/user-attachments/assets/953482e5-cdab-4cb6-9c6d-5c6d27c3c99d)
-![image](https://github.com/user-attachments/assets/f64141c4-c674-41ec-9c40-126f9ae3a0c0)
+![image](https://github.com/user-attachments/assets/c246c604-150f-483b-9de4-db676fe7d473) ![image](https://github.com/user-attachments/assets/953482e5-cdab-4cb6-9c6d-5c6d27c3c99d) ![image](https://github.com/user-attachments/assets/f64141c4-c674-41ec-9c40-126f9ae3a0c0)
 
 
 
