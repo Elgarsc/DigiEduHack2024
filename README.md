@@ -3,10 +3,10 @@
 Grades Widget (OOP)
 This project is an Android widget that allows users to view their latest grades. The widget displays grades, subjects, and dates. 
 
-Input
+Input:
 Navigate to app/src/main/java/com/example/eklasewidgetprototype/widget/GradeWidgetProvider.kt
 
-Example
+Example:
 ```
 private fun getGrades(): List<GradeEntry> {
         // Implement your logic to fetch grades
