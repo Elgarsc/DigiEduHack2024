@@ -1,3 +1,7 @@
+# Link to our video pitch
+https://www.youtube.com/watch?v=Y88-rE55XZ0&ab_channel=Mat%C4%ABssMeiers
+
+
 # DigiEduHack2024
 
 Grades Widget (OOP)
